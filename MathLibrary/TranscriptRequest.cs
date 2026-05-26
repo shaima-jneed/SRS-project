@@ -9,7 +9,6 @@ public class TranscriptRequest
     public string studentId { get; set; }
     public DateTime requestDate { get; set; }
 
-    // التعقيد  = 3
    
     public string InitiateCheck(bool hasActivePenalty, string studentName) 
     {
@@ -29,3 +28,11 @@ public class TranscriptRequest
         }
     }
 }
+
+/*
+CC = D + 1
+D = 2
+CC = 3
+if (string.IsNullOrEmpty(studentName))  شرط if 
+if (hasActivePenalty)  شرط if 
+*/
