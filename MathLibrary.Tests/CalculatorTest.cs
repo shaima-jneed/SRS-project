@@ -5,7 +5,6 @@ namespace MathLibrary.Tests;
 
 public class CalculatorTests
 {
-    // الاختبار 1: حالة الاسم الفارغ
     [Fact]
     public void InitiateCheck_EmptyStudentName_ReturnsError()
     {
@@ -14,7 +13,6 @@ public class CalculatorTests
         Assert.Equal("Error: Student name cannot be empty.", result);
     }
 
-    // الاختبار 2: حالة الطالب المعاقب
     [Fact]
     public void InitiateCheck_HasActivePenalty_ReturnsDenied()
     {
@@ -23,7 +21,6 @@ public class CalculatorTests
         Assert.Equal("Request Denied: Douaa has active disciplinary penalties.", result);
     }
 
-    // الاختبار 3: حالة الطالب السليم (النجاح)
     [Fact]
     public void InitiateCheck_NoActivePenalty_ReturnsApproved()
     {
