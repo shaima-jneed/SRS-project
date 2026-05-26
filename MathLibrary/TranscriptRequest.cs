@@ -4,7 +4,7 @@ namespace MathLibrary;
 
 public class TranscriptRequest 
 {
-    // الخصائص المأخوذة تماماً من الـ Class Diagram الخاص بكِ
+ 
     public string requestId { get; set; }
     public string studentId { get; set; }
     public DateTime requestDate { get; set; }
