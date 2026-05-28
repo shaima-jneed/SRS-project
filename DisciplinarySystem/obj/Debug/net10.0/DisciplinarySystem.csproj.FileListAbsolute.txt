@@ -1,0 +1,11 @@
+d:\UnitTestingDemo\DisciplinarySystem\bin\Debug\net10.0\DisciplinarySystem.deps.json
+D:\UnitTestingDemo\DisciplinarySystem\bin\Debug\net10.0\DisciplinarySystem.dll
+D:\UnitTestingDemo\DisciplinarySystem\bin\Debug\net10.0\DisciplinarySystem.pdb
+D:\UnitTestingDemo\DisciplinarySystem\obj\Debug\net10.0\DisciplinarySystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnitTestingDemo\DisciplinarySystem\obj\Debug\net10.0\DisciplinarySystem.AssemblyInfoInputs.cache
+D:\UnitTestingDemo\DisciplinarySystem\obj\Debug\net10.0\DisciplinarySystem.AssemblyInfo.cs
+D:\UnitTestingDemo\DisciplinarySystem\obj\Debug\net10.0\DisciplinarySystem.csproj.CoreCompileInputs.cache
+D:\UnitTestingDemo\DisciplinarySystem\obj\Debug\net10.0\DisciplinarySystem.dll
+D:\UnitTestingDemo\DisciplinarySystem\obj\Debug\net10.0\refint\DisciplinarySystem.dll
+D:\UnitTestingDemo\DisciplinarySystem\obj\Debug\net10.0\DisciplinarySystem.pdb
+d:\UnitTestingDemo\DisciplinarySystem\obj\Debug\net10.0\ref\DisciplinarySystem.dll

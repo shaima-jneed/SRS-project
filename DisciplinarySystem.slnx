@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DisciplinarySystem.Tests/DisciplinarySystem.Tests.csproj" />
+  <Project Path="DisciplinarySystem/DisciplinarySystem.csproj" />
+</Solution>
